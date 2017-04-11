@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:50 PM] Emulator config file set to C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:50 PM] DiagnosticsStoreRootPath set to: C:\Users\edmondhobeika\AppData\Local\dftmp\Resources\577e106f-8078-4528-88fa-ef2053b1df78
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:50 PM] Loading config file: C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:50 PM] Config file to read: C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:50 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:50 PM] Emulator config file set to C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:50 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:50 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:50 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:50 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:51 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:51 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:52 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:54 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:54:54 PM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Error: 0 : [4/11/2017 1:55:57 PM] DiagnosticsPlugin launch failed with exit code -1
+DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 1:55:57 PM] DiagnosticPlugin exited with code -1

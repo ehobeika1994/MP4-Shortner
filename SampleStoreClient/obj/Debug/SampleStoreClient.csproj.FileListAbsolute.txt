@@ -1,0 +1,20 @@
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreClient\bin\Debug\SampleStoreClient.exe.config
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreClient\bin\Debug\SampleStoreClient.exe
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreClient\bin\Debug\SampleStoreClient.pdb
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreClient\obj\Debug\SampleStoreClient.exe
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreClient\obj\Debug\SampleStoreClient.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\SampleStoreClient.exe.config
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\SampleStoreClient.exe
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\SampleStoreClient.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\SampleStoreLibrary.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\EntityFramework.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\SampleStoreLibrary.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\EntityFramework.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\obj\Debug\SampleStoreClient.csprojResolveAssemblyReference.cache
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\obj\Debug\SampleStoreClient.exe
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\obj\Debug\SampleStoreClient.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreClient\bin\Debug\Upload\giraffes.mp4

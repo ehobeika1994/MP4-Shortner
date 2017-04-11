@@ -1,0 +1,22 @@
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\SampleStoreLibrary.dll.config
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\SampleStoreLibrary.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\SampleStoreLibrary.pdb
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\EntityFramework.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\EntityFramework.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.Migrations.inital.resources
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.csproj.GenerateResource.Cache
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\SampleStoreLibrary.dll.config
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\SampleStoreLibrary.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\SampleStoreLibrary.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\EntityFramework.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\EntityFramework.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.Migrations.inital.resources
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.csproj.GenerateResource.Cache
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.pdb

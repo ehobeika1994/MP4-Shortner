@@ -1,0 +1,331 @@
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\bin\Debug\ServiceDefinition.csdef
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\de\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\EntityFramework.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\EntityFramework.SqlServer.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\EntityFramework.SqlServer.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\EntityFramework.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\es\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\it\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.OData.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.OData.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\MonAgentListener.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Newtonsoft.Json.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Newtonsoft.Json.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\csc.exe
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\vbc.exe
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\SampleStoreLibrary.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\SampleStoreLibrary.pdb
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\SampleStore_WebRole.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\SampleStore_WebRole.dll.config
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\SampleStore_WebRole.pdb
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Net.Http.Formatting.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Net.Http.Formatting.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Spatial.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Spatial.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Helpers.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Helpers.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Http.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Http.WebHost.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Http.WebHost.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Http.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Mvc.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Mvc.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Razor.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Razor.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.Deployment.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.Deployment.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.Razor.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.Razor.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.xml
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\de\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\de\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\de\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\es\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\es\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\es\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\fr\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\fr\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\it\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\it\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\it\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ja\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ja\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ko\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ko\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.Data.Edm.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.Data.OData.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.Data.Services.Client.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.WindowsAzure.Storage.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\MonAgentListener.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Newtonsoft.Json.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ru\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ru\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStore_WorkerRole.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStore_WorkerRole.dll.config
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStore_WorkerRole.pdb
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Spatial.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hans\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Documents\Visual Studio 2015\Projects\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hant\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\bin\Debug\ServiceDefinition.csdef
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\de\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\EntityFramework.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\EntityFramework.SqlServer.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\EntityFramework.SqlServer.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\EntityFramework.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\es\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\it\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.OData.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.OData.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\MonAgentListener.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Newtonsoft.Json.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\Newtonsoft.Json.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\csc.exe
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\vbc.exe
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\SampleStoreLibrary.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\SampleStoreLibrary.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\SampleStore_WebRole.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\SampleStore_WebRole.dll.config
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\SampleStore_WebRole.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Net.Http.Formatting.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Net.Http.Formatting.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Spatial.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Spatial.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Helpers.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Helpers.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Http.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Http.OData.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Http.OData.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Http.WebHost.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Http.WebHost.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Http.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Mvc.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Mvc.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Razor.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Razor.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.Deployment.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.Deployment.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.Razor.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.Razor.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\System.Web.Webpages.xml
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\de\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\de\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\de\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\EntityFramework.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\EntityFramework.SqlServer.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\es\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\es\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\es\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ffmpeg.exe
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\fr\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\fr\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\it\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\it\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\it\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ja\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ja\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ko\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ko\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.Data.Edm.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.Data.OData.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.Data.Services.Client.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.Web.Infrastructure.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.WindowsAzure.Storage.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\MonAgentListener.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Newtonsoft.Json.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\policy.2.0.taglib-sharp.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\csc.exe
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\System.Collections.Immutable.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\System.Reflection.Metadata.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\vbc.exe
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\VBCSCompiler.exe
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\roslyn\VBCSCompiler.exe.config
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ru\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\ru\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStoreClient.exe
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStoreClient.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStoreLibrary.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStoreLibrary.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStore_WebRole.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStore_WebRole.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStore_WorkerRole.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStore_WorkerRole.dll.config
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\SampleStore_WorkerRole.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Net.Http.Formatting.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Spatial.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Web.Http.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Web.Http.OData.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Web.Http.WebHost.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Web.Mvc.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Web.Razor.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Web.WebPages.Deployment.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Web.WebPages.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\System.Web.WebPages.Razor.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\taglib-sharp.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hans\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\zh-Hant\System.Spatial.resources.dll
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\obj\Debug\SampleStore_WorkerRole\Upload\giraffes.mp4
