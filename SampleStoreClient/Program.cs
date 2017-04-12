@@ -33,7 +33,7 @@ namespace SampleStoreClient
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("{0}", " Video Sample Test Client\n Edmond Hobeika - S1238520\n");
 
-                //Uncomment the appropriate Base Address for where the Api is running.
+                //Base Address for where the Api is running.
                 client.BaseAddress = new Uri("http://localhost:50217/");
 
                 //Clear existing headers.
@@ -81,7 +81,7 @@ namespace SampleStoreClient
             Console.WriteLine("\nSelect an option by entering a number..");
             Console.WriteLine();
 
-            //Get user's choice
+            //Get the user's choice
             int input = 0;
             bool inp = int.TryParse(Console.ReadLine(), out input);
             
@@ -106,18 +106,20 @@ namespace SampleStoreClient
                         Console.WriteLine("Loading content.........");
                         try
                         {
+                            // all videos samples 
                             await GetSampleAsync();
                         }
                         catch (Exception e)
                         {
-                            Console.WriteLine("Something's wrong!");
+                            Console.WriteLine("Something's wrong! ");
                             ShowError(e);
+                            // return menu if error happens
                             await ReturnToMenu();
                         }
                         break;
 
                     case 2:
-                        //Get a specific sample
+                        //Get a specific video sample
                         Console.WriteLine("Enter the ID of the Sample Video you want information on");
                         Console.WriteLine();
                         input = 0;
@@ -126,12 +128,14 @@ namespace SampleStoreClient
                         {
                             try
                             {
+                                // get specific video sample
                                 await GetOne(input);
                             }
                             catch (Exception e)
                             {
-                                //Console.WriteLine("Something's wrong here!" + e);
+                                Console.WriteLine("Something's wrong here!");
                                 ShowError(e);
+                                // return to menu if GetOne(input) fails
                                 await ReturnToMenu();
                             }
                         }
@@ -149,11 +153,14 @@ namespace SampleStoreClient
                         Console.WriteLine();
                         try
                         {
+                            // post a new sample from the function Post()
                             await Post();
                         }
                         catch (Exception e)
                         {
-                            Console.WriteLine("Something's wrong!" + e);
+                            Console.WriteLine("Something's wrong! ");
+                            ShowError(e);
+                            // return to main menu if Post() fails
                             await ReturnToMenu();
                         }
 
@@ -170,11 +177,14 @@ namespace SampleStoreClient
                         {
                             try
                             {
+                                // delete specific sample
                                 await Delete(input);
                             }
                             catch (Exception e)
                             {
-                                Console.WriteLine("Something's wrong!" + e);
+                                Console.WriteLine("Something's wrong! ");
+                                ShowError(e);
+                                // return to main menu if deleting a sample fails with an error.!
                                 await ReturnToMenu();
                             }  
                         }
@@ -199,7 +209,9 @@ namespace SampleStoreClient
                             }
                             catch (Exception e)
                             {
-                                Console.WriteLine("Something's wrong!" + e);
+                                Console.WriteLine("Something's wrong! ");
+                                ShowError(e);
+                                // return to main menu if error happens 
                                 await ReturnToMenu();
                             }
                             
@@ -226,8 +238,9 @@ namespace SampleStoreClient
                             }
                             catch (Exception e)
                             {
-                                //Console.WriteLine("Something's wrong!" + e);
+                                Console.WriteLine("Something's wrong! ");
                                 ShowError(e);
+                                // return main menu when this fails!
                                 await ReturnToMenu();
                             }
                            
@@ -254,7 +267,8 @@ namespace SampleStoreClient
                             }
                             catch (Exception e)
                             {
-                                Console.WriteLine("Something's wrong!" + e);
+                                Console.WriteLine("Something's wrong! ");
+                                ShowError(e);
                                 await ReturnToMenu();
                             }
                             
@@ -269,7 +283,7 @@ namespace SampleStoreClient
                     default:
                         //handle invalid numeric options.
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("Invalid input integer, try again..");
+                        Console.WriteLine("This operation number does not exist!");
                         Console.WriteLine();
                         await ShowMenu();
                         break;
@@ -278,7 +292,7 @@ namespace SampleStoreClient
             else
             {
                 //Handle invalid options.
-                Console.WriteLine("Please enter an integer");
+                Console.WriteLine("Please enter an operational integer!");
                 Console.WriteLine();
 
                 await ShowMenu();

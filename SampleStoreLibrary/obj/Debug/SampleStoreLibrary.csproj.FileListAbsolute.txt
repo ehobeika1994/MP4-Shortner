@@ -20,3 +20,4 @@ C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\obj\Debu
 C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.csproj.GenerateResource.Cache
 C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.dll
 C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.pdb
+C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreLibrary\obj\Debug\SampleStoreLibrary.csprojResolveAssemblyReference.cache

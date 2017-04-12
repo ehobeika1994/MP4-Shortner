@@ -52,9 +52,9 @@ namespace SampleStore_WebRole.Controllers
 
                     container.CreateIfNotExists();
 
-                    //var permissions = container.GetPermissions();
-                    //permissions.PublicAccess = BlobContainerPublicAccessType.Container;
-                    //container.SetPermissions(permissions);
+                    var permissions = container.GetPermissions();
+                    permissions.PublicAccess = BlobContainerPublicAccessType.Container;
+                    container.SetPermissions(permissions);
 
                     queueStorage = storageAccount.CreateCloudQueueClient();
 

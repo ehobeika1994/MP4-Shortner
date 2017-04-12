@@ -1,15 +1,24 @@
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Emulator config file set to C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WorkerRole\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] DiagnosticsStoreRootPath set to: C:\Users\edmondhobeika\AppData\Local\dftmp\Resources\18bf4a3a-785a-4481-a9e0-27ee42408efa
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Loading config file: C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WorkerRole\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Config file to read: C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WorkerRole\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Checking VM Type
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Emulator config file set to C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WorkerRole\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Extension set to Emulator Mode
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Reading XML configuration file
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Bypassing private config decryption
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Stopping the running plugin, if any
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] No DiagnosticsPlugin is running.
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Killing any DiagnosticsPlugin that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Killing any MonAgentHost that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Diagnostics plugin stopped successfully
-DiagnosticsPluginLauncher.exe Information: 0 : [4/11/2017 2:00:47 PM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] Emulator config file set to C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WorkerRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] DiagnosticsStoreRootPath set to: C:\Users\edmondhobeika\AppData\Local\dftmp\Resources\e3c2e8ac-9db1-4a86-9b60-3055eda79298
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] Loading config file: C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WorkerRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] Config file to read: C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WorkerRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] Emulator config file set to C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WorkerRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:37 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:41 AM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WebRole\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:42 AM] Loading config file: C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WorkerRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:42 AM] Config file to read: C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WorkerRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:42 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:42 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:42 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:16:47 AM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WebRole\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:17:47 AM] Forcefully terminated DiagnosticsPlugin.exe process with pid 6968
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:17:47 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:17:51 AM] Found a MonAgentHost.exe. WadArguments: "C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\csx\Debug\roles\SampleStore_WebRole\plugins\Diagnostics\Monitor\x64\MonAgentHost.exe" -LocalPath "C:\Users\edmondhobeika\AppData\Local\dftmp\Resources\72f74380-cc2f-40f8-b90c-2077a377220a\WAD0105"  -ConfigFile "C:\Users\edmondhobeika\AppData\Local\dftmp\Resources\72f74380-cc2f-40f8-b90c-2077a377220a\WAD0105\Configuration\MaConfig.xml" -ShutDownEvent WADDM-ShutDown-f79c8b519ecb4154af2835704e84a59c  -TotalShutDownEvent WADDM-TotalShutDown-f79c8b519ecb4154af2835704e84a59c -InitializedEvent WADM-StartUp-f79c8b519ecb4154af2835704e84a59c -parent 6968 -events -wadVer1v5 -UseProxyServer -XStoreAccounts WadAccount#true#devstoreaccount1#Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==#http://127.0.0.1:10002#http://127.0.0.1:10001#http://127.0.0.1:10000.
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:18:07 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [4/12/2017 12:18:07 AM] Resetting DiagnosticPlugin

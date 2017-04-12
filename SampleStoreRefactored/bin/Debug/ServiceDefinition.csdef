@@ -28,7 +28,13 @@
       <Content destination=".\">
         <SourceDirectory path="C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\rcf\Debug\SampleStore_WebRoleContent\" />
       </Content>
+      <Content destination=".\">
+        <SourceDirectory path="C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\ecf\SampleStore_WebRoleContent\" />
+      </Content>
     </Contents>
+    <Imports>
+      <Import moduleName="Diagnostics" />
+    </Imports>
   </WebRole>
   <WorkerRole name="SampleStore_WorkerRole" vmsize="Small">
     <ConfigurationSettings>
@@ -43,6 +49,12 @@
       <Content destination=".\">
         <SourceDirectory path="C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\rcf\Debug\SampleStore_WorkerRoleContent\" />
       </Content>
+      <Content destination=".\">
+        <SourceDirectory path="C:\Users\edmondhobeika\Desktop\SampleStoreRefactored\SampleStoreRefactored\ecf\SampleStore_WorkerRoleContent\" />
+      </Content>
     </Contents>
+    <Imports>
+      <Import moduleName="Diagnostics" />
+    </Imports>
   </WorkerRole>
 </ServiceDefinition>

@@ -36,7 +36,7 @@ namespace SampleStore_WorkerRole
         public static String GetExeArgs(String inPath, String outPath, int seconds = 10)
         {
             //returns command line arguments
-            return "-t " + seconds + " -i " + inPath + " -acodec copy " + outPath;
+            return "-t " + seconds + " -i " + inPath + " -map_metadata 0 -acodec copy " + outPath + " -y";
         }
 
         public static String GetLocalStoragePath()
@@ -53,7 +53,7 @@ namespace SampleStore_WorkerRole
             return instanceId.Substring(instanceId.LastIndexOf("_") + 1);
         }
 
-        //Call the FFMpeg.exe via a process to Shorten it to a sample.
+        //Call the FFMpeg.exe via a process to Shorten the video it to a sample 10s video.
         private bool ConvertSample(int seconds = 30)
         {
             bool success = false;
@@ -389,19 +389,12 @@ namespace SampleStore_WorkerRole
         //Log data that is taken from the File's Metadata.
         protected void LogMP4Metadata(TagLib.File file)
         {
-
             Log("File's metadata:");
 
-            Log("  Title: " + file.Tag.Title);
-            var artist = (file.Tag.AlbumArtists.Length > 0) ? file.Tag.AlbumArtists[0] : "";
-            Log("  Artist: " + artist);
-            Log("  Album: " + file.Tag.Album);
-            Log("  Year: " + file.Tag.Year);
-            var genre = (file.Tag.Genres.Length > 0) ? file.Tag.Genres[0] : "";
-            Log("  Genre: " + genre);
-            Log("  Comment: " + file.Tag.Comment);
+            Log("Title: " + file.Tag.Title);
 
         }
+
 
         //Short-hand method to write to Azure Compute Emulator's console.
         protected void Log(String msg)

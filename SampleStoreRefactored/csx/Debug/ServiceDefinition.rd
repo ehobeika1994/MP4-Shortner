@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SampleStoreRefactored" generation="1" functional="0" release="0" Id="b3806783-6ce9-404a-9aa2-1c1169184440" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SampleStoreRefactored" generation="1" functional="0" release="0" Id="1ad147b0-c423-4f34-9711-61f209f504e7" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="SampleStoreRefactoredGroup" generation="1" functional="0" release="0">
       <componentports>
@@ -144,9 +144,9 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="3b182315-c37d-440b-8968-a58754ea31b2" ref="Microsoft.RedDog.Contract\ServiceContract\SampleStoreRefactoredContract@ServiceDefinition">
+    <implementation Id="6623be6f-489f-4c3f-9930-dd439aaa1f39" ref="Microsoft.RedDog.Contract\ServiceContract\SampleStoreRefactoredContract@ServiceDefinition">
       <interfacereferences>
-        <interfaceReference Id="b639f873-8aaa-4c13-b380-ffa3230ec001" ref="Microsoft.RedDog.Contract\Interface\SampleStore_WebRole:Endpoint1@ServiceDefinition">
+        <interfaceReference Id="66477d42-ada2-4ca5-b79c-e4c08ef57b3e" ref="Microsoft.RedDog.Contract\Interface\SampleStore_WebRole:Endpoint1@ServiceDefinition">
           <inPort>
             <inPortMoniker name="/SampleStoreRefactored/SampleStoreRefactoredGroup/SampleStore_WebRole:Endpoint1" />
           </inPort>
